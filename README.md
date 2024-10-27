@@ -12,7 +12,7 @@
 ---
 ## ❖・Due・❖
 
-Wednesday, 16 October 2024, at 10:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
+Monday, 11 November 2024, at 10:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
 
 ---
 
