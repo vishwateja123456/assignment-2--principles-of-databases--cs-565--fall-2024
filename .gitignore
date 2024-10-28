@@ -2,4 +2,5 @@
 
 !.editorconfig
 !.gitignore
+!.gitattributes
 !README.md
