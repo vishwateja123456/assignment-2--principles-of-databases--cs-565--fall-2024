@@ -10,6 +10,21 @@
 4. Checkout your personalized branch, the one with your name and GitHub handle.
 
 ---
+## ❖・Grading・❖
+
+| Item                                                     | Points |
+|----------------------------------------------------------|:------:|
+| *Following directions*                                   | `XX`   |
+| *Syntax, style, and neatness*                            | `XX`   |
+| *Database Implemented Logically*                         | `XX`   |
+| *How many versions of macOS Have Been Released*          | `XX`   |
+| *Show macOS Info, Listed by Date*                        | `XX`   |
+| *Show Version Name and Year Released of macOS Versions*  | `XX`   |
+| *Show Current Inventory*                                 | `XX`   |
+| *Show Original and Last Supported OS*                    | `XX`   |
+
+---
+
 ## ❖・Due・❖
 
 Tuesday, 12 November 2024, at 10:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
