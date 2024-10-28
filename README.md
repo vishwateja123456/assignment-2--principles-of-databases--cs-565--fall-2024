@@ -25,6 +25,7 @@ Your final project should look exactly like `final-output.html`.
 * Indent all code by whitespace only
 * Indent PHP by 4 spaces
 * Indent MySQL by 2 spaces
+* Indent HTML by 2 spaces
 * All MySQL-related code/files must go in files ending in `.sql` and placed in the `database` folder
 * The database should be stood up by via `setup.sql`
 * Use the credentials already included in `database/setup.sql` for your database
