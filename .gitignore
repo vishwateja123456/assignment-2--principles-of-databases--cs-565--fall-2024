@@ -1,6 +1,12 @@
 *
 
 !.editorconfig
-!.gitignore
-!.gitattributes
+!final-output.html
+!er-model.jpg
+!content.md
 !README.md
+!index.php
+
+!css/
+!database/
+!includes/
