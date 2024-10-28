@@ -11,18 +11,44 @@
 
 ---
 
+
+## ❖ Introduction ❖
+
+For this assignment, you’ll be writing a full-stack web app that does not require user input. You’ll implement a database (the model in the MVC framework), author a simple front-end (the view in the MVC framework), and author the PHP (the controller in the MVC framework) that will communicate between the front-end and the database.
+
+Your final project should look exactly like `final-output.html`.
+
+---
+
+## ❖・Rules・❖
+
+* Indent all code by whitespace only
+* Indent PHP by 4 spaces
+* Indent MySQL by 2 spaces
+* All MySQL-related code/files must go in files ending in `.sql` and placed in the `database` folder
+* The database should be stood up by via `setup.sql`
+* Use the credentials already included in `database/setup.sql` for your database
+* Ensure the credentials in `database/setup.sql` are also in `includes/config.php`
+* Include an ER model of your database in the form of a JPG that is no larger than 1MB
+* The output of your `index.php` file should look exactly as the file `final-output.html`
+* Aside from `index.php`, all your PHP should be included in the `includes` folder
+* Replace the contents of the included `er-model.jpg` with your ER model
+* All the CSS your project requires is already in `css/style.css`
+
+---
+
 ## ❖・Grading・❖
 
 | Item                                                     | Points |
 |----------------------------------------------------------|:------:|
-| *Following directions*                                   | `XX`   |
-| *Syntax, style, and neatness*                            | `XX`   |
-| *Database Implemented Logically*                         | `XX`   |
-| *How many versions of macOS Have Been Released*          | `XX`   |
-| *Show macOS Info, Listed by Date*                        | `XX`   |
-| *Show Version Name and Year Released of macOS Versions*  | `XX`   |
-| *Show Current Inventory*                                 | `XX`   |
-| *Show Original and Last Supported OS*                    | `XX`   |
+| *Syntax, style, and neatness*                            | `20`   |
+| *Database implemented logically*                         | `20`   |
+| *Following directions*                                   | `10`   |
+| *How many versions of macOS have been released*          | `10`   |
+| *Show macOS info, listed by date*                        | `10`   |
+| *Show version name and year released of macOS versions*  | `10`   |
+| *Show current inventory*                                 | `10`   |
+| *Show original and last supported OS*                    | `10`   |
 
 ---
 
